@@ -11,8 +11,6 @@ Pemanggilan WBP adalah aplikasi web sederhana yang dirancang untuk memudahkan pe
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-###
-
 ## Cara Menggunakan Aplikasi
 
 1. **Buka Aplikasi**: Anda dapat mengakses aplikasi ini melalui browser web dengan membuka URL [Aplikasi](https://eliyantosarage.github.io/pemanggilan-wbp/).
@@ -28,8 +26,8 @@ Aplikasi ini dibangun menggunakan teknologi berikut:
 - HTML
 - CSS
 - JavaScript
-- [Bootstrap](https://getbootstrap.com/) versi 5.3.1
-- [Font Awesome](https://fontawesome.com/) versi 6.4.2
+- [Bootstrap](https://getbootstrap.com/)
+- [Font Awesome Pro](https://github.com/eliyantosarage/font-awesome-pro)
 - Teknologi Text-to-Speech bawaan untuk mengonversi teks menjadi suara.
 
 ## Kontribusi
